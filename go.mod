@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/gofiber/contrib/jwt v1.0.10
-	github.com/gofiber/fiber/v2 v2.52.6
+	github.com/gofiber/fiber/v2 v2.52.11
 	github.com/joho/godotenv v1.5.1
 	golang.org/x/crypto v0.32.0
 	gorm.io/driver/sqlite v1.5.7
